@@ -1,0 +1,13 @@
+Classic World of Darkness Character Sheet Storage
+
+The users for this is, initally, a close group of freinds that play the tabletop RPG 'Classic World of Darkness'; I've promised an online version of the charachter seet before, but without the tools to provide persistence, it wasn't possible. Firebase provides the answer. Users will be able to simplify the complex creation process, recall, and edit sheets, which ordinarily must be done on an antiquated and difficult PDF file.
+
+Features:
+Basic:
+- Create a simple sheet
+- Save sheet under user's name
+Optional Goals:
+- Modular sheets
+- Permissions-based viewing and editing (user validation)
+- Exporting sheets to PDF or other format
+
