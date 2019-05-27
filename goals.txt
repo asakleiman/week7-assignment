@@ -15,4 +15,6 @@ Dependances:
 
 -Firebase
 
+Wireframe:
 
+Since this project is replicating an existing document as an interactive app, the original document serves as the wireframe.
