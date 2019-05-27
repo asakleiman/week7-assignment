@@ -18,7 +18,7 @@ Dependances:
 
 Wireframe:
 
-Since this project is replicating an existing document as an interactive app, the original document serves as the wireframe.
+Since this project is replicating an existing document as an interactive app, the original document serves as the wireframe. Document is included as .pdf file in this repository.
 
 
 Tasks:
