@@ -19,3 +19,25 @@ Dependances:
 Wireframe:
 
 Since this project is replicating an existing document as an interactive app, the original document serves as the wireframe.
+
+
+Tasks:
+* Set up scaffold
+* Create Firebase database
+* Call Firebase and get sheet data
+* Store sheet data in state
+* Render sheet
+* accept new data to state
+* Save new data to firebase
+
+Optionals:
+- User validation
+- Display user's other sheets
+  -query database
+  -store data
+  -display data
+  -use router to organise other sheets access?
+  
+ Week 1: Basic database access and rendering
+ Week 2: Store sheet changes & create new sheets
+ Week 3: Style with css, remove console.logs, add optional features if time.
