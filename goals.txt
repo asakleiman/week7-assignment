@@ -7,6 +7,7 @@ Basic:
 - Create a simple sheet
 - Save sheet under user's name
 Optional Goals:
+- Automatic math for point expendatures
 - Modular sheets (extra categories on the sheet can be added or subtracted by user)
 - Permissions-based viewing and editing (user validation)
 - Exporting sheets to PDF or other format
