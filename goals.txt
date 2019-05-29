@@ -6,6 +6,7 @@ Features:
 Basic:
 - Create a simple sheet
 - Save sheet under user's name
+- Load saved sheets
 Optional Goals:
 - Automatic math for point expendatures
 - Modular sheets (extra categories on the sheet can be added or subtracted by user)
